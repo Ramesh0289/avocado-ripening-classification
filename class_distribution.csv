@@ -1,0 +1,9 @@
+Split,Class,Images
+train,blackspot,184
+train,canker,179
+train,fresh,281
+train,grenning,347
+test,blackspot,22
+test,canker,22
+test,fresh,33
+test,grenning,22
